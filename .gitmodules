@@ -1,0 +1,3 @@
+[submodule "kernet"]
+	path = kernet
+	url = https://github.com/raghakot/keras-resnet.git
